@@ -1,8 +1,6 @@
-# wabot-aq
+## 'Deploy'
 
-Simple WhatsApp Bot
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nurutomo/wabot-aq)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/syehahmad11/yoyabot/)
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
