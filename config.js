@@ -4,7 +4,7 @@ let chalk = require('chalk')
 global.owner = ['6285238112384', '6281213308063', '6285780274023'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [ '6285238112384', '6285780274023] // Premium user has unlimited limit
-global.APIs = { // API Prefix
+global.APIs = { //config/routes/api_platform.yaml
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
   xteam: 'https://api.xteam.xyz',
