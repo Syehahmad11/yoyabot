@@ -1,7 +1,7 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.owner = ['6281515860089', '6281334177340', '6283128734012'] // Put your number here
+global.owner = ['6285238112384', '6281213308063', '6285780274023'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -13,7 +13,14 @@ global.APIs = { // API Prefix
   pencarikode: 'https://pencarikode.xyz',
   LeysCoder: 'https://leyscoders-api.herokuapp.com'
 }
-global.APIKeys = { // APIKey Here
+global.APIKeys = {
+        "clientID": "QB5ugd8EEwoGBOUMBmG0/w==",
+        "serverToken": "1@1vhIE4WszXbZbCFJ/OL++10ptCnzqkC3j556PU3OUDnq
+80nVuUfn8PSy+/HXC6tuUxR2V7AEGTbHrQ==",
+        "clientToken": "pxt8jZtEipQvT/mvmHkoz56qpSwltv1ViLZT07AJc2I=",
+        "encKey": "mY859ZF0DjjQH77T4TCg4nZtjxUkx61srBjgU4S/Sug=",
+        "macKey": "87vm8DugZnZt5jdZOAD1PTpr0VohXDvMn0gKYm42JP0="
+}
   // 'https://website': 'apikey'
   'https://api.xteam.xyz': 'd90a9e986e18778b',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
